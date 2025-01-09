@@ -1,4 +1,4 @@
-# Hospital-Resources-Optimization-Length-of-Stay-Prediction-
+# Hospital Resources Optimization Project-
 
 **NTU College of Computing and Data Science**
 
