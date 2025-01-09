@@ -35,12 +35,8 @@ The project focuses on analyzing patient data from various hospital service area
 
 ## Technical Details
 
-- **Programming Language:** Python
-- **Libraries Used:**
-  - Pandas
-  - NumPy
-  - Scikit-learn
-  - Matplotlib (for visualizations)
+- **Programming Language:
+- ** R
 - **Techniques Implemented:**
   - Data Cleaning and Feature Selection
   - Linear Regression
@@ -54,24 +50,6 @@ The project focuses on analyzing patient data from various hospital service area
 - Emergency care dominates hospital admissions across all service areas, underscoring the need for prioritization in resource allocation.
 - Longer stays require focused resource management due to their impact on hospital operations and financial planning.
 - Predictive models provide valuable tools for better capacity planning and patient care.
-
----
-
-## How to Use
-
-1. Clone this repository:
-   ```bash
-   git clone https://github.com/<username>/hospital-los-prediction.git
-   ```
-
-2. Install the required libraries:
-   ```bash
-   pip install -r requirements.txt
-   ```
-
-3. Run the Jupyter notebooks or Python scripts to:
-   - Perform EDA.
-   - Train and evaluate the predictive models.
 
 ---
 
