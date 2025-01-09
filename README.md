@@ -39,8 +39,8 @@ The project focuses on analyzing patient data from various hospital service area
 
 ## Technical Details
 
-- **Programming Language:
-- ** R
+- **Programming Language:**
+- - R
 - **Techniques Implemented:**
   - Data Cleaning and Feature Selection
   - Linear Regression
