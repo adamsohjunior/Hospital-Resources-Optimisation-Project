@@ -4,6 +4,10 @@
 
 ## BC2406 Analytics 1: Visual & Predictive Techniques | Computer-Based Assessment
 
+<p align="center">
+  <img src="readme_cover.png" alt="Cover"/>
+</p>
+
 This repository contains the work for a data science project aimed at optimizing hospital resource allocation and predicting patient length of stay (LoS) using machine learning techniques. The project leverages real-world data to develop predictive models and provides actionable insights to enhance healthcare operations.
 
 ---
